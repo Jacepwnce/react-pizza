@@ -4,8 +4,10 @@ import Header from './Header'
 
 function App() {
   return (
-      <div className="wrapper">       
+      <div className="wrapper">      
+       
        <Header />
+
       <div className="content">
         <div className="container">
           <div className="content__top">
